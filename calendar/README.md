@@ -21,28 +21,34 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/your-username/react-calendar-app.git
+   git clone https://github.com/yru-axelor/react-tutorials.git
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd react-calendar-app
+cd react-tutorials
 ```
 
-3. Install dependency :
+3. change the branch :
+
+```bash
+git co calendar
+```
+
+4. Install dependency :
 
 ```bash
 npm install
 ```
 
-4. Start the development server:
+5. Start the development server:
 
 ```bash
 npm start
 ```
 
-This will open the app in your default web browser at http://localhost:3000.
+This will open the app in your default web browser at http://localhost:5143.
 
 ## Usage
 
